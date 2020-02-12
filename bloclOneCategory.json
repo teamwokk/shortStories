@@ -1,0 +1,12 @@
+[
+    {
+      "category": "MostRead",
+      "categoryShow": "அதிகம் படிக்கப்பட்ட முதல் 10 கதைகள்",
+      "categoryId": 1
+    },
+    {
+      "category": "UserRated",
+      "categoryShow": "வாசகர்களின் வாக்கு எண்ணிக்கை அடிப்படையில்",
+      "categoryId": 3
+    }
+  ]

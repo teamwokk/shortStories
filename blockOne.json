@@ -1,0 +1,94 @@
+[
+  {
+    "language": [
+      {
+        "title": "அப்பாவா இப்படி?",
+        "authorName":"எஸ்.கண்ணன்",
+        "category": "அதிகம் படிக்கப்பட்ட முதல் 10 கதைகள்",
+        "storyId": "1",
+        "storyFull":"https://teamwokk.co.in/tamilShortStories/stories/top/1.txt"
+      },
+      {
+        "title": "பேய்",
+        "authorName":"எஸ்.ஷங்கரநாராயணன்",
+        "category": "அதிகம் படிக்கப்பட்ட முதல் 10 கதைகள்",
+        "storyId": "2",
+        "storyFull":"https://teamwokk.co.in/tamilShortStories/stories/top/2.txt"
+      },
+      {
+        "title": "ஒரு அப்பா, ஒரு மகள், ஒரு கடிதம்!",
+        "authorName":"குரு அரவிந்தன்",
+        "category": "அதிகம் படிக்கப்பட்ட முதல் 10 கதைகள்",
+        "storyId": "3",
+        "storyFull":"https://teamwokk.co.in/tamilShortStories/stories/top/3.txt"
+      },
+      {
+        "title": "தங்கத் தூண்டில்",
+        "authorName":"சிறுவர் கதைகள்",
+        "category": "அதிகம் படிக்கப்பட்ட முதல் 10 கதைகள்",
+        "storyId": "4",
+        "storyFull":"https://teamwokk.co.in/tamilShortStories/stories/top/4.txt"
+      },
+      {
+        "title": "குரங்கு அறிஞர் !",
+        "authorName":"சிறுவர் கதைகள்",
+        "category": "அதிகம் படிக்கப்பட்ட முதல் 10 கதைகள்",
+        "storyId": "5",
+        "storyFull":"https://teamwokk.co.in/tamilShortStories/stories/top/5.txt"
+      },
+      {
+        "title": "மாமா என்றால் அப்பாவாக்கும்!",
+        "authorName":"ஆர்னிகா நாசர்",
+        "category": "அதிகம் படிக்கப்பட்ட முதல் 10 கதைகள்",
+        "storyId": "6",
+        "storyFull":"https://teamwokk.co.in/tamilShortStories/stories/top/6.txt"
+      },
+      {
+        "title": "தத்துவ கதைகள்",
+        "authorName":"பஞ்சதந்திர கதைகள்",
+        "category": "அதிகம் படிக்கப்பட்ட முதல் 10 கதைகள்",
+        "storyId": "7",
+        "storyFull":"https://teamwokk.co.in/tamilShortStories/stories/top/7.txt"
+      }
+    ]
+  },
+  {
+    "language": [
+      {
+        "title": "யார் அந்த தேவதை?",
+        "authorName":"குரு அரவிந்தன்",
+        "category": "வாசகர்களின் வாக்கு எண்ணிக்கை அடிப்படையில்",
+        "storyId": "1",
+        "storyFull":"https://teamwokk.co.in/tamilShortStories/stories/userTop/1.txt"
+      },
+      {
+        "title": "காதலுக்கு இந்தநாள்!",
+        "authorName":"குரு அரவிந்தன்",
+        "category": "வாசகர்களின் வாக்கு எண்ணிக்கை அடிப்படையில்",
+        "storyId": "2",
+        "storyFull":"https://teamwokk.co.in/tamilShortStories/stories/userTop/2.txt"
+      },
+      {
+        "title": "விருந்தோம்பல்",
+        "authorName":"எம்.ஜி.விஜயலெக்ஷ்மி கங்காதரன்",
+        "category": "வாசகர்களின் வாக்கு எண்ணிக்கை அடிப்படையில்",
+        "storyId": "3",
+        "storyFull":"https://teamwokk.co.in/tamilShortStories/stories/userTop/3.txt"
+      },
+      {
+        "title": "சார்… ஐ லவ்யூ!",
+        "authorName":"குரு அரவிந்தன்",
+        "category": "வாசகர்களின் வாக்கு எண்ணிக்கை அடிப்படையில்",
+        "storyId": "4",
+        "storyFull":"https://teamwokk.co.in/tamilShortStories/stories/userTop/4.txt"
+      },
+      {
+        "title": "விருந்தோம்பல்!",
+        "authorName":"சிறுவர் கதைகள்",
+        "category": "வாசகர்களின் வாக்கு எண்ணிக்கை அடிப்படையில்",
+        "storyId": "5",
+        "storyFull":"https://teamwokk.co.in/tamilShortStories/stories/userTop/5.txt"
+      }
+    ]
+  }
+]

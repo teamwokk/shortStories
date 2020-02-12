@@ -1,0 +1,52 @@
+[
+    {
+      "category": "Science",
+      "categoryShow": "அறிவியல்",
+      "categoryId": 1
+    },
+    {
+      "category": "Love",
+      "categoryShow": "காதல்",
+      "categoryId": 2
+    },
+    {
+      "category": "Crime",
+      "categoryShow": "கிரைம்",
+      "categoryId": 3
+    },
+    {
+      "category": "Family",
+      "categoryShow": "குடும்பம்",
+      "categoryId": 4
+    },
+    {
+      "category": "Thriller",
+      "categoryShow": "த்ரில்லர்",
+      "categoryId": 5
+    },
+    {
+      "category": "Single Page",
+      "categoryShow": "ஒரு பக்க கதை",
+      "categoryId": 6
+    },
+    {
+      "category": "Children",
+      "categoryShow": "சுட்டி கதைகள்",
+      "categoryId": 7
+    },
+    {
+      "category": "Fun",
+      "categoryShow": "நகைச்சுவை",
+      "categoryId": 8
+    },
+    {
+      "category": "Special",
+      "categoryShow": "சிறப்பு கதை",
+      "categoryId": 9
+    },
+    {
+      "category": "History",
+      "categoryShow": "சமுகநீதி",
+      "categoryId": 10
+    }
+  ]
